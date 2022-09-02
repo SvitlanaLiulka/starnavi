@@ -1,0 +1,15 @@
+.cell {
+  display: block;
+  width: 30px;
+  height: 30px;
+  border: 2px solid #b7b5b5;
+  cursor: pointer;
+}
+
+.active {
+  display: block;
+  width: 30px;
+  height: 30px;
+  border: 2px solid #b7b5b5;
+  background-color: blue;
+}
